@@ -1,0 +1,12 @@
+#uses python to build ui
+streamlit
+#for the llm
+openai
+#chunking and tokenizing
+tiktoken
+#vector database
+chromadb
+#docs normalized converted to txt
+markitdown[all]
+
+python-dotenv
