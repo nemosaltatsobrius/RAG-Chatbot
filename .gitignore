@@ -7,6 +7,8 @@ __pycache__/
 # Ignore environment/config files
 .env
 
+#Log Files
+*.log
 
 # Ignore Chroma database (runtime-generated)
 chroma_db/
